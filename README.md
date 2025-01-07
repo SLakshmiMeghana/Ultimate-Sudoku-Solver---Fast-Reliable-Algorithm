@@ -9,6 +9,7 @@ This project is a **Sudoku Solver** built using **Python** and **Streamlit**, le
 - Uses **Backtracking Algorithm** for efficient solving  
 - **Real-time number input fields** for user convenience  
 - **Instant solution display** after solving  
-
+ 
 ## 🌐 Live Demo  
-[🔗 Check out the deployed app here]([(https://ultimate-sudoku-solver.streamlit.app/)])   
+[🔗 Check out the deployed app here](https://ultimate-sudoku-solver.streamlit.app/)
+
